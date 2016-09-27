@@ -1,7 +1,7 @@
 # Art Gallery Problem Algorithms
 
 ### About
-This was my bachelor thesis project at Faculty of Electrical Engineering and Computing, University of Zagreb, mentored by professor Mario Osvin Pavčević. Goal of the project was to implement and compare different algorithms for the art gallery problem ([link](https://en.wikipedia.org/wiki/Art_gallery_problem "Art Gallery problem")).  Project was finished in June 2015.
+This was my bachelor thesis project at Faculty of Electrical Engineering and Computing, University of Zagreb, mentored by professor Mario Osvin Pavčević. Goal of the project was to implement and compare different algorithms for the art gallery problem ([link](https://en.wikipedia.org/wiki/Art_gallery_problem "Art gallery problem")).  Project was finished in June 2015.
 
 
 ### Thesis Abstract
